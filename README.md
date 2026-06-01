@@ -2,7 +2,7 @@
 
 A modern portfolio website built to showcase my Data Analytics projects, technical skills, and professional experience.
 
-![Portfolio Preview](./images/portfolio_preview01.png)
+![Portfolio Preview](./Images/portfolio_preview01.jpg)
 
 ## About
 
