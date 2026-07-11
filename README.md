@@ -40,7 +40,7 @@ Portfolio: https://samarthsinghportfolio.netlify.app/
 
 Contact
 
-LinkedIn: https://www.linkedin.com/in/samarth-singh-062371215
+LinkedIn: https://www.linkedin.com/in/samarth-singh-official
 
 Email: OfficialSamarthsingh@gmail.com
 
